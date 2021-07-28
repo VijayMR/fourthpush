@@ -35,6 +35,11 @@ public static void main(String[] args) {
 	String next2 = s.next();
 	System.out.println("The employee city is "+next2);
 	
+	System.out.println("Please enter the city");
+	String next22 = s.next();
+	System.out.println("The employee city is "+next22);
+	
+	
 	
 }
 }
